@@ -5,6 +5,7 @@ LibreOffice で作成しています。
 
 Step1.odt
   各クライアントパソコンの設定
+  アカウント設定後の作業は Windows を対称にしています。
   TortoiseGit を使用する前提です。
 
 Step2.odt
